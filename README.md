@@ -2,4 +2,4 @@
 
 ## Live Link
 
-The live project: [GradeBook](https://gradebook-5u3j.onrender.com)
+The live project: [GradeBook](https://grade-book-pi.vercel.app/)
