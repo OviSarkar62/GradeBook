@@ -72,6 +72,25 @@ To set up GradeBook locally, follow these steps:
     
 - Access the application. Open your web browser and visit http://localhost:3000 to access the GradeBook application.
 
+## Usage
+
+Once the application is running and accessible through your web browser, you can perform the following actions:
+
+- Login: Use your credentials to log into the application. If you're a new user, you can sign up for an account.
+- Create a Class: After logging in, you can create a new class by providing the necessary information such as the class name, subject, and term.
+- Add Students: Once a class is created, you can add students by providing their details, including name, email, and any other relevant information.
+- Record Grades: For each student, you can record their grades for different assignments and exams. The application will automatically calculate the overall grade based on the predefined weightage.
+- Generate Reports: You can generate detailed reports for individual students or the entire class, which includes their grades, attendance, and any additional information.
+
+## Stack
+
+- MongoDB - NoSQL database for storing data
+- Express - Backend framework for building RESTful APIs
+- React - Frontend framework for building user interfaces
+- Node.js - JavaScript runtime environment for building scalable server-side applications
+- JWT - JSON Web Token for user authentication and authorization
+- Bcrypt - Password hashing library for secure password storage
+
 ## Live Link
 
 The live project: [GradeBook](https://grade-book-pi.vercel.app/)
