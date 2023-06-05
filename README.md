@@ -54,9 +54,9 @@ To set up GradeBook locally, follow these steps:
     
 - Create a .env file in the root directory with the following environment variables:
 
-       DB_URL = mongodb+srv://<user>:<pass>@cluster0.l17quyr.mongodb.net/database
+       mongo_url = mongodb+srv://<user>:<pass>@cluster0.l17quyr.mongodb.net/database
 
-       JWT_SECRET = A_Secret_Value
+       jwt_secret = A_Secret_Value
 
 - Start the server: 
 
