@@ -95,5 +95,4 @@ Once the application is running and accessible through your web browser, you can
 
 The live project: [GradeBook](https://grade-book-pi.vercel.app/)
 
-Admin Id: 1610052
-Password: Itisadmin00@
+Admin Id: 1610052, Password: Itisadmin00@
